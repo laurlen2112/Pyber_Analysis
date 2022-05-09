@@ -18,7 +18,7 @@ The purpose of this project is to create a summary data frame organizing ride-sh
   the urban type's average fare per driver.  Likewise the suburban type's average fare per ride is higher than the urban type's average fare and about 
 		$4.00 lower than the rural city type's average fare per ride.
  
-	[The Pyber line plot indicates](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_Plot.png):
+[The Pyber line plot indicates](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_Plot.png):
 
 
 # *Summary*
