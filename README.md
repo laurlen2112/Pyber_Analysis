@@ -12,8 +12,8 @@ The purpose of this project is to create a summary data frame organizing ride-sh
  By contrast, the rural city type posts the lowest ride totals, lowest number of drivers, and lowest fare totals; however, its average fare per ride and 
   average fare per driver rank the highest of the three city type categories.  
 
- While suburban category falls in between the urban and rural types, it is noteworthy that its average fare per driver, $39.50.  This metric is double the amount of 
-  the urban type's average fare per driver and about $16.00 lower than the rural type.  Likewise, the suburban type's average fare per ride is higher than the urban type's average fare and about 
+ While suburban category falls in between the urban and rural types, it is noteworthy that its average fare per driver, $39.50.  This metric is more than double the amount of 
+  the urban type and about $16.00 lower than the rural type in the same category.  Likewise, the suburban type's average fare per ride is higher than the urban type's average fare and about 
 		$4.00 lower than the rural city type's average fare per ride.
  
 [The Pyber line plot](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_Plot.png):
@@ -22,10 +22,10 @@ The purpose of this project is to create a summary data frame organizing ride-sh
 
  Unfortunately, this increase and decrease cannot be explained by [this data](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/pyber%20analysis%20DF%20in%20code.png) because the data frame this analysis is based on only looks at: city, date, fare, ride ID, driver count, and city type.
 
-## *Summary*
+## *Summary*:
 
-Based on this analysis, it is recommended that PyBer invest resources in growing the suburban type market share because its average fare per ride is more lucrative than the urban city type and its population density will likely provide more customers than the rural category.  
+Based on this analysis, it is recommended that PyBer invest resources to grow the suburban type market share because its average fare per ride is more lucrative than the urban city type and its population density will likely provide more customers than the rural category.  
 
-Although the urban category's total rides are about double that of the suburban type, the average fare per ride is about $5 lower than the average suburban ride fare. Similarly, while the rural type has a higher average fare per ride, its potential for additional customers may be low since rural areas have less population density. Therefore, based on this data, focusing resources on the suburban city type has the greatest potential for a return on investment.
+Although the urban category's total rides are about double that of the suburban type, the average fare per ride is about $5 lower than the average suburban ride fare. Similarly, while the rural type has a higher average fare per ride, its potential for additional customers may be low since rural areas tend to have less population density. Therefore, based on this data, focusing resources on the suburban city type has the greatest potential for a return on investment.
 
-Finally, as discussed above, the underlying data is not sufficient to account for some of the sharp peaks and valleys visualized in the graph.  Therefore, it is recommended to rerun the analysis with an expanded data set to include factors that may account for the peaks and valleys such as advertisements, promotions, and circumstances which may increase ride share use like holidays. 
+Finally, as discussed above, the underlying data is not sufficient to account for some of the sharp peaks and valleys visualized in the graph.  Therefore, it is recommended to rerun the analysis with an expanded data set to include factors that may account for the peaks and valleys such as advertising, promotions, and circumstances which may increase ride share use like holidays. 
