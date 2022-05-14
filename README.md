@@ -13,7 +13,7 @@ The purpose of this project is to create a summary data frame organizing ride-sh
   average fare per driver rank the highest of the three city type categories.  
 
  While suburban category falls in between the urban and rural types, it is noteworthy that its average fare per driver, $39.50.  This metric is double the amount of 
-  the urban type's average fare per driver.  Likewise, the suburban type's average fare per ride is higher than the urban type's average fare and about 
+  the urban type's average fare per driver and about $16.00 lower than the rural type.  Likewise, the suburban type's average fare per ride is higher than the urban type's average fare and about 
 		$4.00 lower than the rural city type's average fare per ride.
  
 [The Pyber line plot](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_Plot.png):
