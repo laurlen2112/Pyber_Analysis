@@ -6,11 +6,11 @@ The purpose of this project is to create a summary data frame organizing ride-sh
 ## *Results*:
 [The PyBer summary data frame](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_DF_Summary.png):
 
- The urban city type category holds the largest accumulated ride total, the largest number of drivers, and the largest total fares.  Despite those 
-  metrics, the urban city type posts the lowest average fare per ride at $24.53 and the lowest average fare for per driver at $16.57.  
+ The urban city type holds the largest accumulated ride total, the largest number of drivers, and the largest total fares.  Despite those 
+  metrics, the urban type posts the lowest average fare per ride at $24.53 and the lowest average fare for per driver at $16.57.  
 
  By contrast, the rural city type posts the lowest ride totals, lowest number of drivers, and lowest fare totals; however, its average fare per ride and 
-  average fare per driver rank the highest of the three categories.  
+  average fare per driver rank the highest of the three city types.  
 
  While suburban category falls in between the urban and rural types, it is noteworthy that its average fare per driver is $39.50.  This metric is more than double the amount of 
   the urban type and about $16.00 lower than the rural type in the same category.  Likewise, the suburban type's average fare per ride is about $6.00 higher than the urban type's average fare and about 
