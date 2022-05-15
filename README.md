@@ -20,7 +20,7 @@ The purpose of this project is to create a summary data frame organizing ride-sh
 
  The information on the Pyber plot correlates with the above.  It shows the urban category with the highest fares, followed by the suburban type in the middle and the rural category posting the lowest fares.  In addition to the above, the peaks and valleys of the lines allows one to easily glean increases and decreases of fares per city type over a period of time.  For example, all three city types appear to have a sharp increase toward the end of February and a similar decrease at the beginning of March.  
 
- Unfortunately, this increase and decrease cannot be explained by this data because [the data frame](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/pyber%20analysis%20DF%20in%20code.png)  this analysis is based on only looks at: city, date, fare, ride ID, driver count, and city type.  Those data points do not sufficiently explain the reason behind this pattern.
+ Unfortunately, these peaks and valleys cannot be adequately explained by this data because [the data frame](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/pyber%20analysis%20DF%20in%20code.png)  this analysis is based on only looks at: city, date, fare, ride ID, driver count, and city type.  Those data points do not sufficiently explain the reason behind this pattern.
 
 ## *Summary*:
 
