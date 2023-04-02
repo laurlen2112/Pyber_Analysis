@@ -4,7 +4,10 @@
 The purpose of this project is to create a summary data frame organizing ride-share data by city type and to create a multiline plot showing weekly fares per city type.
 
 ## *Results*:
-[The PyBer summary data frame](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_DF_Summary.png):
+[PyBer summary data frame](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_DF_Summary.png):
+
+<img src= "https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_DF_Summary.png" width="700" height="300"/>
+
 
  The urban city type holds the largest accumulated ride total, the largest number of drivers, and the largest total fares.  Despite those 
   metrics, the urban type posts the lowest average fare per ride at $24.53 and the lowest average fare for per driver at $16.57.  
@@ -16,7 +19,9 @@ The purpose of this project is to create a summary data frame organizing ride-sh
   the urban type and about $16.00 lower than the rural type in the same category.  Likewise, the suburban type's average fare per ride is about $6.00 higher than the urban type's average fare and about 
 		$4.00 lower than the rural type's average fare per ride.
  
-[The Pyber line plot](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/PyBer_Plot.png):
+[Pyber Line Plot](https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/pyber%20line%20plot%202.png):
+
+<img src= "https://github.com/laurlen2112/Pyber_Analysis/blob/main/analysis/pyber%20line%20plot%202.png" width="700" height="300"/>
 
  The information on the Pyber plot correlates with the above.  It shows the urban category with the highest fares, followed by the suburban type in the middle and the rural category posting the lowest fares.  In addition to the above, the peaks and valleys of the lines allows one to easily glean increases and decreases of fares per city type over a period of time.  For example, all three city types appear to have a sharp increase toward the end of February and a similar decrease at the beginning of March.  
 
@@ -24,8 +29,8 @@ The purpose of this project is to create a summary data frame organizing ride-sh
 
 ## *Summary*:
 
-Based on this analysis, it is recommended that PyBer invest resources to grow the suburban category market because its average fare per ride is more lucrative than the urban city type and its population density will likely provide more customers than the rural category.  Although the urban category's total rides are about double that of the suburban type, its average fare per ride is about $5 lower than the same in the suburban category.  Similarly, while the rural type has a higher average fare per ride, its potential for additional customers may be low since rural areas tend to have less population density.  Therefore, based on this data, focusing resources on the suburban city type has the greatest potential for a return on investment.
+Based on this analysis, it is recommended that PyBer invest resources to grow the suburban category market because its average fare per ride is more lucrative than the urban city type and its population density will likely provide more customers than the rural category. While the urban category has double the total rides of the suburban category, its average fare per ride is lower by approximately $5. Similarly, the rural category has a higher average fare per ride, but its potential for additional customers may be limited due to lower population density.
 
-While it may be reasonably asserted that the differences among city types is due to population density and distance between pick up and drop off points, it is also recommended that PyBer track ride distance and population density in order to confirm that assertion.  By expanding the data points of this analysis Pyber will have a higher likelihood of success because it will invest in a strategy based on sound data rather than mere assertions.
+However, to confirm that the differences in average fare per ride among city types are due to population density and distance between pick-up and drop-off points, it is recommended that PyBer track ride distance and population density. This will enable a more sound investment strategy based on accurate data.
 
-Finally, as discussed above, the underlying data is not sufficient to account for some of the sharp peaks and valleys visualized in the graph.  Therefore, it is recommended to rerun the analysis with an expanded data set to include factors that may account for the peaks and valleys such as advertising, promotions, and circumstances which may increase ride-share use like holidays. 
+Furthermore, as discussed earlier, the sharp peaks and valleys in the graph cannot be fully explained by the current data. Therefore, it is recommended that PyBer rerun the analysis with an expanded data set to include factors such as advertising, promotions, and events that may increase ride-share use like holidays. This will provide a more comprehensive understanding of the market trends and enable PyBer to make better-informed decisions
